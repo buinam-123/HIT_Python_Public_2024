@@ -1,0 +1,1 @@
+Tạo trước một dữ liệu và đưa nó vào commit trước 
