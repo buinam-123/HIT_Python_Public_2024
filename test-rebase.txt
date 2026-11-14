@@ -1,1 +1,3 @@
 Tạo trước một dữ liệu và đưa nó vào commit trước 
+<br> 
+test thử xem nếu như không dùng rebase thì sao 
