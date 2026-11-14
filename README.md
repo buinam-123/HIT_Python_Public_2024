@@ -1,2 +1,6 @@
 Đây là file readme.md
-Sửa thông tin và pull xem có được không 
+Sửa xem có được không (sửa trực tiếp trên git hub)
+heheheh
+<br>
+ádfasdf
+
